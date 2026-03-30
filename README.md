@@ -23,7 +23,7 @@ Make sure you have Python installed, then run:
 `pip install -r requirements.txt`
 
 ### 3. Run the Project
-`python detect.py`
+`python main.py`
 *(Press 'q' to quit the video stream).*
 
 ---
